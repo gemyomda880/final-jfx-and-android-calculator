@@ -1,0 +1,26 @@
+.root {  
+	-fx-background-color:black;
+	
+}
+
+.button{
+	
+	  -fx-text-fill: white;
+	    -fx-alignment: CENTER;
+        -fx-font: bold italic 10pt "Arial";
+     	-fx-background-color:#40BD9E;
+   
+}
+
+.text-area {
+
+  -fx-padding:9;
+  -fx-background-color:#73DAEB;
+   -fx-text-fill: white;
+  
+}
+
+.button:hover{
+ -fx-background-color:yellow;
+}
+
